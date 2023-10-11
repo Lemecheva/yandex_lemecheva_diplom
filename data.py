@@ -11,6 +11,3 @@ body = {
         "BLACK"
     ]
 }
-header = {
-    'track': 123456
-}
